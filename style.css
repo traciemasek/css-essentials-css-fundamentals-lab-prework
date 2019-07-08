@@ -15,6 +15,7 @@ img {
 
 nav a {
   text-align: center;
+  margin: 0 auto;
   padding: 0px 10px;
   background-color: gray;
 }
