@@ -14,7 +14,7 @@ img {
 }
 
 nav a {
-  display: inline-block;
+  float: left;
   text-align: center;
   padding: 0px 10px;
   background-color: gray;
