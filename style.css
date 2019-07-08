@@ -13,14 +13,12 @@ img {
   margin: 0 auto;
 }
 
-/*
-nav, figcaption {
+
+nav {
   text-align: center;
 }
-*/
 
 nav a {
-  text-align: center;
   padding: 0 10px;
   background-color: gray;
   margin: 0 auto;
