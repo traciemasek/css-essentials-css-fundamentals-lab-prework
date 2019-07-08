@@ -18,13 +18,12 @@ nav, figcaption {
 }
 
 nav a {
-  margin: 0 auto;
   padding: 0 10px;
   background-color: gray;
+  margin: 0 auto;
 }
 
 figcaption {
-  text-align: center;
   font-size: 10px;
 }
 
