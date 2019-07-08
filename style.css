@@ -15,7 +15,7 @@ img {
 
 a {
   text-align: center;
-  display: inline-block;
+  display: block;
   padding: 0px 10px;
   background-color: gray;
 }
